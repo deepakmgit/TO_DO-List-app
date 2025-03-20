@@ -1,2 +1,3 @@
-# Flutter-1
-To do List App
+# to_do_list
+
+A new Flutter project.
